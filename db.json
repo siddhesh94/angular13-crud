@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Headphones",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 200,
+      "comment": "nice",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Watermelon",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 120,
+      "comment": "Tasty",
+      "date": "2022-03-10T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Tomatoes",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "Red tomatoes",
+      "date": "2022-03-09T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Shirt",
+      "category": "Clothing",
+      "freshness": "Brand new",
+      "price": 33,
+      "comment": "Mens shirt",
+      "date": "2022-03-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 500,
+      "comment": "In good condition",
+      "date": "2022-03-18T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mobile",
+      "category": "Electronics",
+      "freshness": "Second hand",
+      "price": 300,
+      "comment": "Iphone",
+      "date": "2022-03-10T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 30,
+      "comment": "Nice quality",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
